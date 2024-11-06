@@ -1,1 +1,1 @@
-# Antiprocrastination-App
+This was a team project, but the GitHub account I used to make commits to this project no longer exists. Whilst my name isn't under the Contributors section, my commmits can be seen in the Commits section (the commits made by 'Smit Navinkumar').  The original repository for this project can be found by visiting the following link: https://github.com/Nashar101/SecondYearTeamProject
